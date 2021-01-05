@@ -1,0 +1,1 @@
+Projekt to baza sklepu z ksi¹¿kami, przechowuj¹ca dane of pracownikach, klientach, dostawcach, zakupionych ksi¹¿kach oraz zamówieniach z³o¿onych w sklepie. 
